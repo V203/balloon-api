@@ -2,31 +2,42 @@
     {
         "color": "red",
         "count": 0,
+        "description":"This color is a that blends well with many colors.",
         "basecolor":"#530202de",
         "subsurface":"#d92323ed"
     },
     {
         "color": "yellow",
         "count": 0,
+        "description":"Yellow this is a very bright color which signifies warmthness in many scenaries",
         "basecolor":"#534b02de",
         "subsurface":"#d9be23ed"
     },
     {
         "color": "green",
         "count": 0,
+        "description":"this color radiates warmth and joy, like a sunbeam that brightens the world with its vibrant hue.",
         "basecolor":"#216f0b45",
         "subsurface":"#26d923ed"
     },
     {
         "color": "blue",
         "count": 0,
+        "description":"Blue invokes serenity and tranquility, mirroring the vast sky and calming waters that surround us.",
         "basecolor":"#023753de",
         "subsurface":"#0b7dbaed"
     },
     {
         "color": "pink",
         "count": 0,
+        "description":"Pink embodies sweetness and tenderness, a gentle hue that spreads love and warmth to all.",
         "basecolor":"#510f80de",
         "subsurface":"#bb23d9ed"
+    },{
+        "color": "black",
+        "count": 0,
+        "description":"Black exudes mystery and elegance, a timeless hue that captivates with its enigmatic allure.",
+        "basecolor":"#ffffffff",
+        "subsurface":"#fffffeee"
     }
 ]
