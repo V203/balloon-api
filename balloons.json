@@ -2,7 +2,7 @@
     {
         "color": "red",
         "count": 0,
-        "description":"This color is a that blends well with many colors.",
+        "description":"This color is a that blends well with many colors. ",
         "basecolor":"#530202de",
         "subsurface":"#d92323ed"
     },
@@ -37,7 +37,7 @@
         "color": "black",
         "count": 0,
         "description":"Black exudes mystery and elegance, a timeless hue that captivates with its enigmatic allure.",
-        "basecolor":"#00000000",
-        "subsurface":"#00000000"
+        "basecolor":"black",
+        "subsurface":"black"
     }
 ]
