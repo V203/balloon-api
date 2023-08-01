@@ -37,7 +37,7 @@
         "color": "black",
         "count": 0,
         "description":"Black exudes mystery and elegance, a timeless hue that captivates with its enigmatic allure.",
-        "basecolor":"#ffffffff",
-        "subsurface":"#ffffffff"
+        "basecolor":"#00000000",
+        "subsurface":"#00000000"
     }
 ]
